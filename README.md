@@ -6,4 +6,4 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 **도구**  
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Adobe XD&logoColor=white&labelColor=#FF61F6"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Adobe XD&logoColor=white&labelColor=FF61F6"/>
